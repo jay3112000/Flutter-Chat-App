@@ -11,7 +11,7 @@ FEATURES-
  3. sigup/login/logout features
  4. all the messages and user authentication data is stored on the firebase
  5. notification recieive for new message feature
- 6. 
+ 
 ![Screenshot_2021-05-23-17-50-54-719_com example hello_ji](https://user-images.githubusercontent.com/61292543/119262259-6db18500-bb8f-11eb-8c25-77d7307dddf6.jpg)
 
 
